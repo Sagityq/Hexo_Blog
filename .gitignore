@@ -1,7 +1,5 @@
-.DS_Store
-Thumbs.db
+.gitignore
+.deploy_git/
 db.json
-*.log
 node_modules/
 public/
-.deploy*/
